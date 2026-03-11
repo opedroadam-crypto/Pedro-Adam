@@ -31,7 +31,7 @@ public class Uni3Exe02 {
     }
 }
 
-Este repositório contém um exercício desenvolvido durante as aulas da disciplina de programação.
+Este repositório contém um exercício desenvolvido durante as aulas da disciplina de Ciências da Computação
 
 ## Objetivo
 
